@@ -1,4 +1,4 @@
-# ERPNext-Frepple Enhanced Integration
+# ERPNext-Frepple Enhanced Integration Version 1.3
 <a href="https://github.com/msf4-0/ERPNext-Frepple-Integration/blob/master/LICENSE">
     <img alt="GitHub" src="https://img.shields.io/github/license/msf4-0/ERPNext-Frepple-Integration.svg?color=blue">
 </a>
@@ -50,7 +50,7 @@ Frepple Custom App built based on Frepple Advanced Planning and Scheduling softw
 ## Installation
 
 ### Prerequisite
-1. Installed Frepple software and successfully launched it on the localhost. Refer to [this document](https://docs.google.com/document/d/1P4U1rZszydwy2LmVAuC4lvYPl-dFw86LSC8Fz8zRsIE/edit?usp=sharing) for installing Frepple software.
+1. Installed Frepple software and successfully launched it on the localhost.
 2. Installed ERPNext and successfully launched it on the localhost.
 
 ### Important Note: 
@@ -112,7 +112,7 @@ This is an important step where some of ERPNext files must be updated to accumod
 
 3. Run the following command:
 
-    `bench get-app frepple https://github.com/msf4-0/ERPNext-Frepple-Enhanced-Integration.git`
+    `bench get-app frepple https://github.com/seejayyy/ERPNext-Frepple-Enhanced-Integration-version1.3.git`
 
 4. Install the app onto your site.
 
