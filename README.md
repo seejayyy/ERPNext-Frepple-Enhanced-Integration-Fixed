@@ -89,7 +89,7 @@ This is an important step where some of ERPNext files must be updated to accumod
 
 7. Once you login in into `<project_name>-erpnext-python-1` container, by default, you will be in `~:/home/frappe/frappe-bench/sites` directory. Navigate out to `~:/home/frappe/frappe-bench` directory by typing:
 
-    `cd ...`
+    `cd ..`
 
 8. Update the new files into the system by running this command:
 
@@ -113,7 +113,7 @@ This is an important step where some of ERPNext files must be updated to accumod
 
 3. Run the following command:
 
-    `bench get-app frepple https://github.com/seejayyy/ERPNext-Frepple-Enhanced-Integration-version1.3.git`
+    `bench get-app frepple https://github.com/msf4-0/ERPNext-Frepple-Enhanced-Integration.git`
 
 4. Install the app onto your site.
 
@@ -134,7 +134,7 @@ The following steps are only applicable if you have installed ERPNext with the p
 
 3. Clone this repo:
 
-    `git clone https://github.com/seejayyy/ERPNext-Frepple-Enhanced-Integration-version1.3.git`
+    `git clone https://github.com/msf4-0/ERPNext-Frepple-Enhanced-Integration.git`
 
 4. Navigate to the cloned folder:
 
