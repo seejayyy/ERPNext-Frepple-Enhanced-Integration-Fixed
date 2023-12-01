@@ -133,7 +133,7 @@ The following steps are only applicable if you have installed ERPNext with the p
 
 3. Clone this repo:
 
-    `git clone https://github.com/msf4-0/ERPNext-Frepple-Enhanced-Integration.git`
+    `git clone https://github.com/seejayyy/ERPNext-Frepple-Enhanced-Integration-version1.3.git`
 
 4. Navigate to the cloned folder:
 
