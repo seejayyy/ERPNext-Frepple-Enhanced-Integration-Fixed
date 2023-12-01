@@ -137,7 +137,7 @@ The following steps are only applicable if you have installed ERPNext with the p
 
 4. Navigate to the cloned folder:
 
-    `cd ERPNext-Frepple-Enhanced-Integration`
+    `cd ERPNext-Frepple-Enhanced-Integration-version1.3`
 
 5. Open the following text file [Frepple_Execution_Commands.txt](https://github.com/msf4-0/ERPNext-Frepple-Enhanced-Integration/files/9482673/Frepple_Execution_Commands.txt) and run the two commands one-by-one to ensure both files are copied into their destination.
 
@@ -148,7 +148,7 @@ The following steps are only applicable if you have installed ERPNext with the p
 
 7. Once you login in into `<project_name>-erpnext-python-1` container, by default, you will be in `~:/home/frappe/frappe-bench/sites` directory. Navigate out to `~:/home/frappe/frappe-bench` directory by typing:
 
-    `cd ...`
+    `cd ..`
 
 8. Update the new app into the system by running this command:
 
