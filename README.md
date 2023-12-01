@@ -105,6 +105,7 @@ This is an important step where some of ERPNext files must be updated to accumod
 
     `docker exec -it --user root <project_name>-erpnext-python-1 /bin/bash`
 - For example, `docker exec -it --user root project1-erpnext-python-1 /bin/bash`
+- If you face `no such container` error, try with `docker exec -it --user root project1_erpnext-python-1 /bin/bash` or `docker exec -it --user root project1_erpnext-python_1 /bin/bash`.
 
 2. By default, you will be in `~:/home/frappe/frappe-bench/sites` directory. Navigate out to `~:/home/frappe/frappe-bench` directory by typing:
 
@@ -145,6 +146,7 @@ The following steps are only applicable if you have installed ERPNext with the p
 
     `docker exec -it --user root <project_name>-erpnext-python-1 /bin/bash`
 - For example, `docker exec -it --user root project1-erpnext-python-1 /bin/bash`.
+- - If you face `no such container` error, try with `docker exec -it --user root project1_erpnext-python-1 /bin/bash` or `docker exec -it --user root project1_erpnext-python_1 /bin/bash`.
 
 7. Once you login in into `<project_name>-erpnext-python-1` container, by default, you will be in `~:/home/frappe/frappe-bench/sites` directory. Navigate out to `~:/home/frappe/frappe-bench` directory by typing:
 
